@@ -1,4 +1,4 @@
-💫 **About Me**:<br>
+**About Me**:<br>
 Abhay Mathur<br> BCA Student | Software Engineering & AI/ML Enthusiast<br><br>---<br><br>***Technical Profile***<br> **Core Competencies:** Object-Oriented Programming (OOP), Relational Database Design, Backend Architecture.<br> **Primary Stack:** Python, MySQL, Version Control (Git), HTML/CSS, foundational JavaScript.<br>* **Development Philosophy:** Focused on establishing rigorous core computer science and database fundamentals prior to deploying large-scale systems.<br><br>---<br><br>***Development & Approach***<br> **Engineering Mindset:** Committed to a continuous cycle of building, troubleshooting, and optimization. I place a strong emphasis on writing clean, modular, and maintainable code.<br> **Current Focus:** Deepening proficiency in backend logic while expanding capabilities into full-stack web architectures and machine learning pipelines.<br> **Project Methodology:** Designing systems from the ground up, ensuring robust data schemas in MySQL, and maintaining clear version history via Git.
 
 
